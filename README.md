@@ -48,3 +48,11 @@ This project utilizes OpenAI's API for fine-tuning a model that can predict a ma
 ### Succeeded Fine Tuning
 ![alt text](image-1.png)
 ![alt text](image-2.png)
+
+## Documentation
+GitHub Link:
+https://github.com/YinYinPhyo/Advanced-Fine-Tuning-Drug-Classification
+
+Presentation Slide:
+https://drive.google.com/file/d/1MVBQA_9t4dYDYh_QJgiVHaZvaStqo1OP/view?usp=sharing
+
